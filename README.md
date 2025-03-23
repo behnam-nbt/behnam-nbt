@@ -13,12 +13,24 @@
 ---
 
 ### 🛠 Tech Stack  
-🚀 **Frontend:**  
-- **Languages:** JavaScript, HTML, CSS  
-- **Frameworks & Libraries:** React.js, Next.js  
-- **Styling:** Tailwind CSS, CSS3  
-- **Version Control:** Git, GitHub  
-- **Tools & Platforms:** VS Code, Vercel, Netlify  
+
+#### 🚀 **Frontend Technologies:**  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
+</p>
+
+
+#### 🛠 **Tools & Version Control:**  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+</p>
 
 ---
 
@@ -34,9 +46,18 @@
 ---
 
 ### 📫 Connect With Me  
-🌍 **Portfolio:** [behnamnabati.com](https://behnamnabati.com)  
-💼 **LinkedIn:** [behnam-nabati](https://linkedin.com/in/behnam-nabati-654bba20b/)  
-📧 **Email:** [behnamnabati0@gmail.com](mailto:behnamnabati0@GMAIL.com)  
+
+<p align="left">
+  <a href="https://behnamnabati.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌍 Portfolio-222222?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/behnam-nabati-654bba20b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:behnamnabati0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p> 
 
 ---
 
